@@ -1,6 +1,6 @@
 🎓 Student Performance Prediction (Machine Learning Project)
 
-📌 Project Overview
+Project Overview
 
 This project explores how different factors affect student academic performance using machine learning.
 
